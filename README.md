@@ -23,7 +23,7 @@ Trivia is a game where the player is asked questions about interesting but unimp
 
 > Clone the repository.
 
-git clone https://github.com/arthurmkhitaryan/trivia-main
+git clone https://github.com/arthurmkhitaryan/trivia
 
 > Run the following commands.
 
